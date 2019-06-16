@@ -13,4 +13,4 @@ module.exports = function(app){
 }
 
 //I ran out of time for this assignment so its missing some basic functionality. I would probably code in a route to match someone with their
-//best friend but for right now everyone gets matched with Jared. Which works for me I guess.
+//best friend here but for right now everyone gets matched with Jared. Which works for him I guess.
